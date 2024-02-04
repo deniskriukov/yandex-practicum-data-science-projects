@@ -12,19 +12,21 @@ Repository containing portfolio of data science projects completed by Denis Kriu
 
 <table width=100% valign=top >
   <tr>
-    <td width=25%>Task</td>
+    <td width=25%>Project</td>
     <td>Description</td>
     <td width=20%>Used libraries</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/deniskriukov/test_tasks/tree/main/Ranks">Ranks</a></td>
-    <td>Determining the rank of companies in order to identify the best ones for further investment.</td>
-    <td>Python, Pandas, NumPy, Matplotlib, Seaborn, statistical analysis</td>
+    <td><a href="https://github.com/deniskriukov/yandex-praktikum-data-science-projects/tree/main/Forecasting-a-taxi-service">Forecasting the number of orders for a taxi service</a></td>
+    <td>To attract more drivers during peak periods, you need to predict the number of taxi orders for the next hour. A model is being built for such a prediction.</td>
+    <td>Python, Pandas, Scikit-learn, statsmodels, CatBoost</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/deniskriukov/test_tasks/tree/main/xO_Services">xO_Analytics</a></td>
-    <td>End-to-end analytics of advertising campaigns and calculation of key business metrics.</td>
-    <td>Python, Pandas, NumPy, Matplotlib, Seaborn, business metrics</td>
+    <td><a href="https://github.com/deniskriukov/yandex-praktikum-data-science-projects/tree/main/Predicting-the-temperature-of-an-alloy">Predicting the temperature of an alloy</a></td>
+    <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
+    <td>Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, CatBoost</td>
   </tr>
 </table>
 
+<br>
+<i> The rest of the projects are in the process of being added...<i>
